@@ -23,3 +23,4 @@ Mixed Reality 관련 정보들을 모아둡니다.
 ## 동영상 강좌
 
 ## Seminars PPT
+[https://github.com/KoreaEva/MR/tree/master/Seminar](https://github.com/KoreaEva/MR/tree/master/Seminar)<br>
