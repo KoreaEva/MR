@@ -7,6 +7,7 @@ Mixed Reality 관련 정보들을 모아둡니다.
 ## 개발 환경 구성
 [실행환경 요구사항](https://developer.microsoft.com/en-us/windows/mixed-reality/windows_mixed_reality_minimum_pc_hardware_compatibility_guidelines)<br>
 [개발도구 설치](https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools)<br>
+[최신버전 베타](https://forum.unity.com/threads/custom-build-2017-2-rc-mrtp-windows-mixed-reality-technical-preview.498253/ )<br>
 
 ## Mixed Reality Development 
 
